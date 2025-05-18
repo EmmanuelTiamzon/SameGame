@@ -33,7 +33,7 @@ Le projet a été réalisé dans le cadre du BUT Informatique – SAE 2.1, en ut
 - `Fenetre.java` : Fenêtre principale.  
 - `FenetreDebut.java` / `PaintFenetreDebut.java` : Menu de démarrage.  
 - `FenetreFin.java` / `PaintFenetreFin.java` : Menu de fin.  
-- `Score.java` : Calcule et gère le score du joueur.  
+- `Score.java` : Crée ou modifie un fichier txt pour calculer et gérer le score du joueur.  
 - `MouseFenetreDebut.java` / `MouseFenetreFin.java` : Gestion des clics sur les menus.  
 - `highscore.txt` / `score.txt` : Fichiers de sauvegarde du score.
 
