@@ -60,6 +60,7 @@ Les images suivantes doivent être placées dans un dossier `image/` :
 ```bash
 make
 make run
+```
 
 ## Auteurs
 
