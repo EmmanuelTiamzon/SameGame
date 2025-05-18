@@ -60,3 +60,8 @@ Les images suivantes doivent être placées dans un dossier `image/` :
 ```bash
 make
 make run
+
+## Auteurs
+
+Ce projet a été réalisé dans le cadre d'une situation d'apprentissage et d'évaluation au sein de la formation de BUT informatique à Fontainebleau avec comme auteurs :
+Wael ATIK et Emmanuel TIAMZON.
