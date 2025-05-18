@@ -66,3 +66,6 @@ make run
 
 Ce projet a été réalisé dans le cadre d'une situation d'apprentissage et d'évaluation au sein de la formation de BUT informatique à Fontainebleau avec comme auteurs :
 Wael ATIK et Emmanuel TIAMZON.
+
+## Remarque
+Ce projet n’est pas destiné à un usage commercial. Il a été créé dans un but d’apprentissage uniquement.
