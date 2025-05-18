@@ -50,8 +50,10 @@ Les images suivantes doivent être placées dans un dossier `image/` :
 - `MenuDebut.jpg` : Menu d’accueil
 - `MenuDebutSelection.jpg` : Menu après sélection
 - `MenuFin.jpg` : Menu de fin
-
 ---
+
+## Diagramme de classe UML 
+![image](https://github.com/user-attachments/assets/57807fe5-bd57-42c7-881d-8957e796f07e)
 
 ## Compilation et exécution
 
