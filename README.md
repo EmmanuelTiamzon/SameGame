@@ -53,7 +53,7 @@ Les images suivantes doivent être placées dans un dossier `image/` :
 ---
 
 ## Diagramme de classe UML 
-Voici un petit aperçu du diagramme de classe UML
+Voici un petit aperçu du diagramme de classe UML.
 
 ![image](https://github.com/user-attachments/assets/57807fe5-bd57-42c7-881d-8957e796f07e)
 
